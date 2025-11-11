@@ -157,3 +157,5 @@ print(perimeter(1, 2, 3)) # = 6
     - Добавлен rectangle.py
 4. `commit d3c1ecc537e48754db7ff894663d62786462d60d`
     - Исправлена ошибка в rectangle.py
+5. `commit 8738e27d2ae67482a2507f1f4b6a24bb0869711d`
+    - Добавлены тесты
